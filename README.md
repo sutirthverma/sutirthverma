@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on HTML/CSS/JavaScript Projects
 - 📫 How to reach me:-
 - sutirthverma@yahoo.com
--  https://twitter.com/sutirthv3rma
+-  https://twitter.com/sutti_san
 - https://www.instagram.com/sutirthverma
 - https://github.com/sutirthverma
 

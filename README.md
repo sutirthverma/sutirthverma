@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sutirthverma
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on HTML/CSS/JavaScript Projects
 - 📫 How to reach me:-
 - sutirthverma@yahoo.com
--  https://twitter.com/sutti_san
+-  https://twitter.com/sutirthverma
 - https://www.instagram.com/sutirthverma
 - https://github.com/sutirthverma
 

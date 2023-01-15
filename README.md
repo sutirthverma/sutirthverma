@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sutirthverma
-- 👀 I’m interested in web development.
+- 👀 I’m interested in software development.
 - 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on HTML/CSS/JavaScript Projects
 - 📫 How to reach me:-

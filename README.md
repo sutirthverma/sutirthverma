@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sutirthverma
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning C.
-- 💞️ I’m looking to collaborate on HTML/CSS/JavaScript Projects
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on Java Projects
 - 📫 How to reach me:-
 - sutirthverma@yahoo.com
 -  https://twitter.com/sutirthverma

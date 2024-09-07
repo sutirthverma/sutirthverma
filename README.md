@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sutirthverma
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Java Projects
+- 👀 I’m interested in Backedn development.
+- 🌱 I’m currently learning Node Js.
+- 💞️ I’m looking to collaborate on JavaScript Projects
 - 📫 How to reach me:-
-- sutirthverma@yahoo.com
+- sutirth2002@gmail.com
 -  https://twitter.com/sutirthverma
 - https://www.instagram.com/sutirthverma
 - https://github.com/sutirthverma
